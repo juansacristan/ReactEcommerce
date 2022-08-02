@@ -1,4 +1,5 @@
 import ItemProduct from "../ItemProduct/ItemProduct"
+import './ItemContainer.css'
 
 const ItemContainer = ({section}) =>{
 
