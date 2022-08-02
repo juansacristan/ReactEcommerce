@@ -15,3 +15,22 @@
 .item-product img{
     width: 80%;
 }
+
+.countProd{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    /* height: 77px; */
+    align-items: center;
+}
+
+.countProd button{
+    padding: 10px;
+    font-size: 20px;
+    margin: 10px;
+    border-radius: 6px;
+}
+
+.countProd p{
+    font-size: 20px;
+}
